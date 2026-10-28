@@ -1,0 +1,12 @@
+{
+  "name": "@davy/plugin.map-markers",
+  "version": "1.0.0",
+  "description": "Create and interact with temporary map markers through Davy's map API.",
+  "private": true,
+  "type": "module",
+  "main": "./dist/plugin.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
+}

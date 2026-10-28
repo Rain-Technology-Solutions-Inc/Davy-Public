@@ -1,0 +1,12 @@
+{
+  "name": "@davy/plugin.saved-settings",
+  "version": "1.0.0",
+  "description": "Save validated plugin preferences with Davy's scoped storage API.",
+  "private": true,
+  "type": "module",
+  "main": "./dist/plugin.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@davy/plugin.hello-panel",
+  "version": "1.0.0",
+  "description": "A Davy panel with shared UI components and an embedded entry point.",
+  "private": true,
+  "type": "module",
+  "main": "./dist/plugin.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
+}
