@@ -13,7 +13,6 @@ maintained internally by Rain Technology Solutions.
 | --------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [Davy website](https://davy.raintechsolutions.com/)                                     | Product information and an introduction to Davy |
 | [Davy Manager](https://davymanager.raintechsolutions.com/)                              | User and account management                     |
-| [Davy Studio](https://davystudio.raintechsolutions.com/)                                | The Davy Studio application                     |
 | [Documentation](https://davy.raintechsolutions.com/docs/)                               | User guides, SDK guides, and the API reference  |
 | [Changelog](https://davy.raintechsolutions.com/docs/changelog)                          | Release changes and upgrade notes               |
 | [Issue board](https://github.com/orgs/Rain-Technology-Solutions-Inc/projects/6/views/1) | Work being tracked and its current status       |
